@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  PT-BR - Olá! Eu sou a Gabriella! Nasci em 2003 e hoje me encontro apaixonada pela área da tecnologia e desenvolvimento de software. Meus projetos são, em sua maioria, acadêmicos e pessoais, na área de <strong>programação back-end</strong>.<br>
+  PT-BR - Olá! Eu sou a <i>Gabriella</i>! Nasci em 2003 e hoje me encontro apaixonada pela área da tecnologia e desenvolvimento de software. Meus projetos são, em sua maioria, acadêmicos e pessoais, na área de <strong>programação back-end</strong>.<br>
   No momento estudo Ciência da Computação e faço pós-graduação em Arquitetura e Desenvolvimento de Sistemas para complementar minha formação já existente em Análise e Desenvolvimento de Sistemas. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
 <p align="left">
