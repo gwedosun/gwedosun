@@ -6,8 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  🦄 Linguagens: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" />
 </p>
 
 <p align="left">
