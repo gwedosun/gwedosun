@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: 
 </p>
 
 <p align="left">
