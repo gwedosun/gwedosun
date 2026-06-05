@@ -1,6 +1,5 @@
 <head>
     <meta charset="UTF-8">
-    <title>gwedosun</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -80,17 +79,6 @@
         <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 
-    <a href="https://www.linkedin.com/in/gabriella-braga-os/">
-        <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-
-    <!-- <a href="https://www.tiktok.com/@" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a> -->
-
-    <a href="https://github.com/gwedosun?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub-FFDAB9?style=for-the-badge&logo=github&logoColor=black" />
-    </a>
 </div>
 
 <br>
