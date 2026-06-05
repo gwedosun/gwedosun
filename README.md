@@ -87,5 +87,5 @@
     <img src="/README/img/totoro.png" width="50px"/><br>
     <!-- <img src="/README/img/hello-kitty.webp" width="30px" /> -->
     <br>
-    <sub>made with love by @gwedosun ✩</sub><br>
+    <sub>made with love by @gwedosun ✩ <br> check /gwedosun repository to see the actual html/css work </sub><br>
 </div>
